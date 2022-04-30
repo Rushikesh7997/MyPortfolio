@@ -24,8 +24,10 @@ function Techstack() {
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
      
     <Col xs={4} md={2} className="tech-icons">
+      <a href = "https://reactjs.org/">  
         <DiReact />
         <p>React</p>
+      </a>
       </Col>
 
     <Col xs={4} md={2} className="tech-icons">
