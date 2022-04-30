@@ -8,6 +8,7 @@ function TypeWriter() {
         strings: [
           "Full-Stack Developer",
           "MERN Stack Developer",
+          "Problem Solver",
         ],
         autoStart: true,
         loop: true,

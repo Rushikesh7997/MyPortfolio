@@ -15,13 +15,13 @@ function Footer() {
           <h3>Copyright © 2021</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Pummy Sharma</h3>
+          <h3>Rushikesh Pardhikar</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/pummysh"
+                href="https://github.com/Rushikesh7997"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -32,7 +32,7 @@ function Footer() {
             
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/pummy-sharma-172514218/"
+                href="https://www.linkedin.com/in/rushikesh-pardhikar/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

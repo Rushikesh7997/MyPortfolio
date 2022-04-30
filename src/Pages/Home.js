@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 
-import myImg from "../Assets/circleimg.png";
+import myImg from "../Assets/my-avatar.jpg";
 import SelfIntro from "../Components/SelfIntro/SelfIntro";
 import TypeWriter from "../Components/TypeWriter/TypeWriter";
 
@@ -21,7 +21,7 @@ function Home() {
 
               <h1 className="heading-name ">
                 I'M
-                <strong className="main-name br"> Pummy Sharma</strong>
+                <strong className="main-name br"> Rushikesh Pardhikar</strong>
               </h1>
 
               <div style={{  textAlign: "left" }}>

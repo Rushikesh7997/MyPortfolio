@@ -18,23 +18,23 @@ function Address() {
         <Col xs={4} md={2} className="tech-icons">
             <BsTelephone/>
             <br/>
-            <span>9166370114</span>
+            <span>9404316957</span>
         </Col>
         <Col xs={4} md={2} className="tech-icons">
             <HiOutlineMailOpen/>
            <br/>
-            <a style={{textDecoration: 'none',color: 'white'}}  href="mailto:write2pummy@gmail.com">write2pummy@gmail.com</a>
+            <a style={{textDecoration: 'none',color: 'white'}}  href="mailto:pardhikar26@gmail.com">pardhikar26@gmail.com</a>
         </Col>
         <Col xs={4} md={2} className="tech-icons">
             <AiFillGithub/>
             <br/>
-            <a style={{textDecoration: 'none',color: 'white'}}  href="https://github.com/pummysh" target="_blank" rel="noopener noreferrer">Github</a>
+            <a style={{textDecoration: 'none',color: 'white'}}  href="https://github.com/Rushikesh7997" target="_blank" rel="noopener noreferrer">Github</a>
         </Col>
         <Col xs={4} md={2} className="tech-icons">
             <AiFillLinkedin/>
             <br/>
             
-            <a style={{textDecoration: 'none',color: 'white'}}  href="https://www.linkedin.com/in/pummy-sharma-172514218/"  target="_blank" rel="noopener noreferrer">LinkedIn</a>
+            <a style={{textDecoration: 'none',color: 'white'}}  href="https://www.linkedin.com/in/rushikesh-pardhikar/"  target="_blank" rel="noopener noreferrer">LinkedIn</a>
         </Col>
       </Row>
 
