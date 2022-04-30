@@ -24,53 +24,73 @@ function Techstack() {
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
      
     <Col xs={4} md={2} className="tech-icons">
-      <a href = "https://reactjs.org/">  
+      <a href = "https://reactjs.org/" target={"_blank"}>  
         <DiReact />
         <p>React</p>
       </a>
       </Col>
 
-    <Col xs={4} md={2} className="tech-icons" href="https://redux.js.org/">
+    <Col xs={4} md={2} className="tech-icons">
+      <a href = "https://redux.js.org/" target={"_blank"}> 
         <SiRedux />
         <p>Redux</p>
+      </a>
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+
+    <Col xs={4} md={2} className="tech-icons">
+      <a href = "https://expressjs.com/" target={"_blank"}>
         <SiExpress />
         <p>Express</p>
+      </a>
       </Col>
 
-      <Col xs={4} md={2} className="tech-icons">
+    <Col xs={4} md={2} className="tech-icons">
+      <a href = "https://www.mongodb.com/" target={"_blank"}> 
         <DiMongodb />
         <p>Mongodb</p>
+      </a>
       </Col>
       
-      <Col xs={4} md={2} className="tech-icons">
+    <Col xs={4} md={2} className="tech-icons">
+      <a href = "https://nodejs.org/en/" target={"_blank"}>
         <DiNodejs />
         <p>Nodejs</p>
+      </a>
+      </Col>
+
+    <Col xs={4} md={2} className="tech-icons">
+      <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript" target={"_blank"}>
+        <DiJavascript1 />
+        <p>Javascript</p>
+      </a>
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
-        <p>Javascript</p>
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      <a href = "https://tailwindcss.com/" target={"_blank"}>
         <SiTailwindcss />
         <p>Tailwind</p>
+        </a>
       </Col>
       
       
       <Col xs={4} md={2} className="tech-icons">
+       <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML" target={"_blank"}>
         <DiHtml5 />
         <p>Html5</p>
+        </a>
       </Col>
       
       <Col xs={4} md={2} className="tech-icons">
+      <a href = "https://github.com/" target={"_blank"}>
         <DiGithubBadge />
         <p>Github</p>
+        </a>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+      <a href = "https://getbootstrap.com/" target={"_blank"}>
         <DiBootstrap />
         <p>Bootstrap</p>
+        </a>
       </Col>
     </Row>
     </div>
