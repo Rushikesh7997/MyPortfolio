@@ -30,7 +30,7 @@ function Techstack() {
       </a>
       </Col>
 
-    <Col xs={4} md={2} className="tech-icons">
+    <Col xs={4} md={2} className="tech-icons" href="https://redux.js.org/">
         <SiRedux />
         <p>Redux</p>
       </Col>
