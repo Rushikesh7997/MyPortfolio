@@ -20,7 +20,7 @@ function Projects() {
               description="This is an E-Commerce website which speciaizes in selling clothes and styling products. The website provides 800 brands and 33,000 products of different types of clothes, watches, sunglasses, shoes etc."
               tech="Tech-Stacks"
               techD="Html | Javascript | Css | MongoDb | Express "
-              link="https://flipkart01-clone.netlify.app/"
+              link="https://flipkart-clone-frontend.vercel.app/"
               a="https://github.com/Rushikesh7997/Flipkart-Clone"
             />
           </Col>
